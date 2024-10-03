@@ -1,0 +1,39 @@
+/* Cor de fundo */
+body{
+  background-image: linear-gradient(180deg, #b8b47e 0, #a9ab7b 12.5%, #98a177 25%, #889471 37.5%, #78866b 50%, #6a7864 62.5%, #5f6b5d 75%, #566057 87.5%, #4f5651 100%);
+}
+
+/* tamanho da fonte */
+h1{
+  font-size: 200%;
+  text-align: center
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin: 10px 0 5px;
+}
+
+input, textarea {
+  margin-bottom: 10px;
+  padding: 8px;
+}
+
+button {
+  padding: 10px;
+  background-color: beige;
+  color: black;
+  border: none;
+  cursor: pointer;
+}
+
+  
